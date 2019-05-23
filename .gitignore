@@ -1,0 +1,6 @@
+build
+.gradle
+.allure
+.idea
+out
+*.iml
